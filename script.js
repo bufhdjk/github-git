@@ -1,2 +1,2 @@
-console.log("vikas")
-console.log("hii");
+let num1=4;
+let num3=7;
